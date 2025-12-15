@@ -165,7 +165,7 @@ margin-right: auto;
 a {
     text-decoration: none;
 }
-.select-section img {
+.select-section img, article img {
     width:100%;
     height: 50%;
     object-fit:cover;
