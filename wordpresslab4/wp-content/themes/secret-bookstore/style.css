@@ -1,0 +1,11 @@
+/*
+Theme Name: Secret Bookstore
+Theme URI: https://example.com/
+Author: Converted from static project
+Description: A WordPress theme converted from the provided static site. Uses the original CSS in /css/style.css
+Version: 1.0
+Tags: custom-background, custom-logo, flexible-header
+Text Domain: secret-bookstore
+*/
+
+/* This file intentionally kept small; main styles are in /css/style.css which is enqueued by functions.php */
